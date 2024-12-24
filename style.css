@@ -1,0 +1,168 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.oneClass {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 28px;
+    gap: 24px;
+    background: #E7EEFF;
+}
+
+#Logomark {
+    border-bottom: 1px solid #002B81;
+}
+
+
+.headerClass {
+    display: flex;
+    align-items: center;
+    padding: 20px 0px;
+    background: #E7EEFF;
+}
+
+.hedClass {
+    display: flex;
+    gap: 12px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+
+.maincontainer {
+    display: flex;
+    width: 100%;
+}
+
+
+.baalClass {
+    display: flex;
+    gap: 12px;
+}
+
+
+.baalClass img {
+    max-width: 24px;
+    width: 100%;
+}
+
+
+.firstClass {
+    max-width: 1440px;
+    width: 100%;
+}
+
+.hedClass input {
+    border: none;
+    background: none;
+    width: 300px;
+}
+
+
+input::placeholder {
+    color: #000;
+    font-size: 16px;
+}
+
+
+.headerlastClass {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+
+/* main */
+
+
+.mainClass {
+    margin-top: 42px;
+    display: flex;
+    gap: 30px;
+    justify-content: end;
+    flex-wrap: wrap;
+}
+
+
+.secondmainClass {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 8px 24px 8px 12px;
+    border-radius: 16px;
+    background: #E7EEFF;
+}
+
+
+.pClass {
+    color: #323232;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+/*  */
+
+
+
+.imagesClass {
+    display: flex;
+    justify-content: center;
+    gap: 42px;
+    margin-top: 42px;
+}
+
+.imgClass {
+    display: flex;
+    flex-direction: column;
+}
+
+.pstylesClas {
+    border-radius: 0px 0px 24px 24px;
+    background: #E7EEFF;
+    padding: 8px 12px;
+}
+
+
+.paragrafClass {
+    color: #000;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+.twoparagrafClass {
+    color: #606060;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+
+/*  */
+
+nav {
+    display: flex;
+}
+
+.mainlastClass {
+    display: flex;
+    justify-content: center;
+    gap: 42px;
+    margin-top: 42px;
+}
+
+.mainsecondClass {
+    max-width: 1144px;
+    width: 100%;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
